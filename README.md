@@ -2,8 +2,11 @@
 
 ## 🚀 Quem sou eu 💜
 
-Olá! Meu nome é Jonatas. Eu sou estudante de Análise e Desenvolvimento de sistemas no [
-Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte](https://portal.ifrn.edu.br/), estagiário  na [SETHAS](http://sethas.rn.gov.br/). Também sou criador de vários repositórios com projetos legais.
+Olá, sou Jonatas Melo, graduando em Análise e Desenvolvimento de Sistemas, estudando desenvolvimento web front-end, com foco em ReactJS, NextJS , TailwindCSS, React Native e NodeJS. 
+
+Trabalhei como estagiário por dois anos na secretaria SETHAS-RN, onde contribui no desenvolvimento de sistemas web, para a gestão de programas sociais. Sou organizado, gosto de trabalhar em equipe e estou sempre disposto a aprender e compartilhar conhecimento.
+
+Atualmente estou praticando o aprendizado em desenvolvimento de novas tecnologias em sistemas web, e quero me tornar um desenvolvedor full-stack, com foco em ReactJS, NextJS, React Native e NodeJS.
 
 ## 📂 O que você encontra no meu Github 📁
 
