@@ -2,11 +2,13 @@
 
 ## 🚀 Quem sou eu 💜
 
-Olá, sou Jonatas Melo, graduando em Análise e Desenvolvimento de Sistemas, estudando desenvolvimento web front-end, com foco em ReactJS, NextJS , TailwindCSS, React Native e NodeJS. 
+Olá, sou Jonatas Melo.
 
-Trabalhei como estagiário por dois anos na secretaria SETHAS-RN, onde contribui no desenvolvimento de sistemas web, para a gestão de programas sociais. Sou organizado, gosto de trabalhar em equipe e estou sempre disposto a aprender e compartilhar conhecimento.
+Desenvolvedor Front-end com foco em UX/UI. Busco atuar no desenvolvimento de interfaces modernas, responsivas e acessíveis, aplicando, princípios de experiência do usuário e consistência visual. Possuo experiência na tradução de layouts, wireframes e protótipos em código funcional utilizando HTML, CSS, JavaScript e frameworks como React e Next.js. Experiência na otimização de performance e colaboração próxima com designers e equipes de backend para construir soluções coesas e centradas no usuário.
 
-Atualmente estou praticando o aprendizado em desenvolvimento de novas tecnologias em sistemas web, e quero me tornar um desenvolvedor full-stack, com foco em ReactJS, NextJS, React Native e NodeJS.
+## Currículo Profissional
+
+[![Download CV](https://img.shields.io/badge/Download-Currículo-blue)](https://jonatas-melo-silva.github.io/jonatas-melo-silva/cv/jonatas_melo_silva.pdf)
 
 ## 📂 O que você encontra no meu Github 📁
 
