@@ -1,61 +1,167 @@
-![Boas vindas ao meu Github](images/capa.gif)
+# 👋 Olá, eu sou Jonatas Melo
 
-## 🚀 Quem sou eu 💜
+Desenvolvedor Fullstack com forte foco em **Front-end Architecture, Performance e Estruturação de Sistemas**.
 
-Olá, sou Jonatas Melo, graduando em Análise e Desenvolvimento de Sistemas, estudando desenvolvimento web front-end, com foco em ReactJS, NextJS , TailwindCSS, React Native e NodeJS. 
+Trabalho construindo aplicações com:
 
-Trabalhei como estagiário por dois anos na secretaria SETHAS-RN, onde contribui no desenvolvimento de sistemas web, para a gestão de programas sociais. Sou organizado, gosto de trabalhar em equipe e estou sempre disposto a aprender e compartilhar conhecimento.
+* Arquitetura escalável
+* Organização orientada a domínio
+* Separação clara de responsabilidades
+* Performance e legibilidade como prioridade
 
-Atualmente estou praticando o aprendizado em desenvolvimento de novas tecnologias em sistemas web, e quero me tornar um desenvolvedor full-stack, com foco em ReactJS, NextJS, React Native e NodeJS.
+Meu objetivo é evoluir para referência em **Arquitetura Front-end e Engenharia de Interface**.
 
-## 📂 O que você encontra no meu Github 📁
+---
 
-💻️ Projetos de frontend
+## 🚀 Stack Principal
 
-🏫 Meus trabalhos da faculdade
+### **Front-end**
 
-👨‍💻 Alguns códigos aleatórios
+* React
+* TypeScript
+* Vite
+* Tailwind
+* Feature-Sliced Design
+* Clean Architecture
+* Zod
+* React Hook Form
 
-## 📌 Tecnologias que eu uso no meu dia 🙋‍♂️
+### **Back-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra-UI-000000?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
+* Node.js
+* Fastify
+* PostgreSQL
+* Redis
+* Docker
+* Prisma
 
-## 🙃 Tecnologias que eu já estudei 💙
+### **Boas práticas**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+* SOLID
+* Clean Code
+* Arquitetura em Camadas
+* Validação com Zod
+* Documentação com Swagger
+* Containers com Docker
 
-## ✨ Status sobre o que eu ando fazendo por aqui 🎉
+---
 
-<div align = "center">
- 
-![Status jonatas-melo-silva](https://github-readme-stats.vercel.app/api?username=jonatas-melo-silva&layout=compact&theme=tokyonight&show_icons=true)
+## 🧠 Projetos em Destaque
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas-melo-silva&layout=compact&theme=tokyonight)
- 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=jonatas-melo-silva&theme=tokyonight&column=5&row=1&margin-w=10)
- 
-</div>
+### 🔹 1️⃣ Projeto Fullstack Consolidado
 
-## 🔎 Me encontre nas redes sociais 📲
+Aplicação completa com:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0077B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-melo-silva/)
-[![instagram](https://img.shields.io/badge/instagram-CC6699?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonatas_melo_silva/)
+* Backend Fastify
+* Frontend React
+* PostgreSQL + Redis
+* Docker
+* Organização arquitetural clara
+* API documentada com Swagger
 
-Para facilitar o contato, me encontre em [Jonatas Melo Silva](https://jonatas-melo-silva.github.io/nlw-heat-cracha/)
+Foco:
+
+> Estrutura profissional pronta para produção.
+
+---
+
+### 🔹 2️⃣ NLW Connect – Backend
+
+API desenvolvida com:
+
+* Fastify
+* Validação com Zod
+* Swagger
+* Redis para ranking
+* PostgreSQL
+* Docker
+
+Destaques:
+
+* Estrutura modular de rotas
+* Separação de responsabilidades
+* Ambiente configurado para produção
+* Variáveis de ambiente validadas
+
+---
+
+### 🔹 3️⃣ NLW Connect – Frontend
+
+Interface moderna construída com:
+
+* React + TypeScript
+* Organização por domínio
+* Integração com API
+* Foco em performance e clareza estrutural
+
+Destaques:
+
+* Componentização consistente
+* Tratamento de estado previsível
+* Código legível e escalável
+
+---
+
+### 🔹 4️⃣ NLW Agents – Backend
+
+API para gerenciamento de agentes com:
+
+* Fastify
+* Banco relacional
+* Estrutura modular
+* Validação robusta
+
+Destaques:
+
+* Organização limpa
+* Separação clara entre domínio e infraestrutura
+* Pensado para evolução futura
+
+---
+
+### 🔹 5️⃣ NLW Agents – Frontend
+
+Aplicação SPA com:
+
+* React
+* TypeScript
+* Consumo de API
+* Estrutura pensada para crescimento
+
+Destaques:
+
+* Componentização
+* Organização por feature
+* Base para aplicar Feature-Sliced Design
+
+---
+
+## 📈 O que você vai encontrar nos meus repositórios
+
+* Estrutura clara de pastas
+* Separação de camadas
+* Configuração de Docker
+* README explicativo
+* Variáveis de ambiente organizadas
+* Código com tipagem forte
+* Foco em escalabilidade
+
+---
+
+## 🎯 Direção Profissional
+
+Estou aprofundando estudos em:
+
+* Arquitetura Front-end avançada
+* Performance Web
+* Sistemas escaláveis
+* Engenharia de Software aplicada a Front-end
+
+---
+
+## 📬 Contato
+
+LinkedIn:
+👉 [https://www.linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/seu-link-aqui)
+
+---
