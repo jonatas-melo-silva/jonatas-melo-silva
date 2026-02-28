@@ -162,6 +162,6 @@ Estou aprofundando estudos em:
 ## 📬 Contato
 
 LinkedIn:
-👉 [https://www.linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/seu-link-aqui)
+👉 [https://www.linkedin.com/in/jonatas-melo-silva/](https://www.linkedin.com/in/jonatas-melo-silva/)
 
 ---
