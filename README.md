@@ -48,24 +48,7 @@ Meu objetivo é evoluir para referência em **Arquitetura Front-end e Engenharia
 
 ## 🧠 Projetos em Destaque
 
-### 🔹 1️⃣ Projeto Fullstack Consolidado
-
-Aplicação completa com:
-
-* Backend Fastify
-* Frontend React
-* PostgreSQL + Redis
-* Docker
-* Organização arquitetural clara
-* API documentada com Swagger
-
-Foco:
-
-> Estrutura profissional pronta para produção.
-
----
-
-### 🔹 2️⃣ NLW Connect – Backend
+### 🔹 1️⃣ NLW Connect – Backend
 
 API desenvolvida com:
 
@@ -85,7 +68,7 @@ Destaques:
 
 ---
 
-### 🔹 3️⃣ NLW Connect – Frontend
+### 🔹 2️⃣ NLW Connect – Frontend
 
 Interface moderna construída com:
 
@@ -102,7 +85,7 @@ Destaques:
 
 ---
 
-### 🔹 4️⃣ NLW Agents – Backend
+### 🔹 3️⃣ NLW Agents – Backend
 
 API para gerenciamento de agentes com:
 
@@ -119,7 +102,7 @@ Destaques:
 
 ---
 
-### 🔹 5️⃣ NLW Agents – Frontend
+### 🔹 5️4️⃣ NLW Agents – Frontend
 
 Aplicação SPA com:
 
